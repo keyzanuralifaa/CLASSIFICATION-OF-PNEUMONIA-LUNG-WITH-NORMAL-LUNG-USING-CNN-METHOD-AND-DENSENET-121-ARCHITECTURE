@@ -1,0 +1,2 @@
+# CLASSIFICATION-OF-PNEUMONIA-LUNG-WITH-NORMAL-LUNG-USING-CNN-METHOD-AND-DENSENET-121-ARCHITECTURE
+Classification Pneumonia with Normal using accuracy cnn 89% and Densenet 85%
